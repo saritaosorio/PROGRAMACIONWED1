@@ -1,0 +1,18 @@
+h1 {
+    color: palevioletred;
+}
+.ejemplo {
+    color: blueviolet;
+}
+#ejemplo2 {
+    color: aquamarine;
+}
+ul li{
+    color: pink;
+}
+.contenedor > h3 {
+    color: red;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
